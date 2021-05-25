@@ -1,0 +1,25 @@
+body {
+  background: #eee;
+  background-image: url("./img/bg.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#frm {
+  border: solid black 3px;
+  width: 25%;
+  border-radius: 5px;
+  margin: 120px auto;
+  background: transparent;
+  padding: 50px;
+}
+#btn {
+  color: #fff;
+  background: #337ab7;
+  padding: 7px;
+  border-radius: 5px;
+  margin-left: 25px;
+}
+
+#btn:hover {
+  color: brown;
+}
